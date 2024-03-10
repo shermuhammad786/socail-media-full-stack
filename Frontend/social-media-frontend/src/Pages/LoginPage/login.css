@@ -1,0 +1,15 @@
+.signUpFrom {
+    width: 40%;
+    /* border: 2px solid red; */
+    height: 70%;
+}
+
+.signUpFrom h1 {
+    font-size: 30px;
+    font-weight: bolder;
+    text-align: center;
+}
+
+.signUpFrom div {
+    margin-top: 5px;
+}
